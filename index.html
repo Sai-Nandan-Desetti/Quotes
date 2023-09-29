@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quotes</title>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/logo.png" type="image/x-icon">
+
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--
+    - #MAIN
+  -->
+
+  <main>
+
+    <!--
+      - #main-content
+    -->
+
+    <div class="main-content">
+
+      <!--
+        - #ABOUT
+      -->
+
+      <article class="about  active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">Quotes</h2>
+        </header>
+
+        <section class="about-text">
+          <p>
+            I love good writing. Don't ask me what do I mean by "good". I can't define it.
+          </p>
+          <p>             
+            Anyway, here's a collection of writings that not just impressed but <i>inspired</i> me--
+            the few remaining drops as I scoop some water from the ocean in my tiny hands and pour into this container.
+          </p>          
+        </section>
+
+        <section class="testimonials">                       
+            
+            <ul>              
+
+              <li class="testimonials-item">
+                <div class="content-card" data-testimonials-item>
+  
+                  <figure class="quote-avatar-box">
+                    <img src="./assets/images/Breakfast At Tiffany's.png" alt="Breakfast At Tiffany's" width="50" data-testimonials-avatar>
+                  </figure>
+  
+                  <h4 class="h4 testimonials-item-title" data-testimonials-title>Breakfast At Tiffany's</h4>
+                  
+                  <time class="testimonials-date" data-testimonials-date>Oct 5, 1961</time>
+
+                  <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        You call yourself a free spirit, a wild thing. And you're terrified somebody's going to stick you in a cage.
+                        Well... you're already in that cage. You built it yourself. And it's not bounded in the West... or in the East...
+                        It's wherever you go. Because no matter where you run, you just end up running into yourself.
+                    </p>
+                  </div>
+  
+                </div>
+              </li>
+
+              <li class="testimonials-item">
+                <div class="content-card" data-testimonials-item>
+  
+                  <figure class="quote-avatar-box">
+                    <img src="./assets/images/Heaven and Earth.png" alt="Heaven and Earth" width="50" data-testimonials-avatar>
+                  </figure>
+  
+                  <h4 class="h4 testimonials-item-title" data-testimonials-title>Heaven and Earth</h4>
+                  
+                  <time class="testimonials-date" data-testimonials-date>Dec 25, 1993</time>
+
+                  <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        I had come home, yes. But home had changed. And I would always be in between-- South, North... East, West... Peace, America... Vietnam, America.
+                        It is my fate to be in between heaven and earth.
+                    </p>
+                    <p>
+                        When we resist our fate, we suffer. When we accept our fate, we are happy. We have time in abundance, an eternity to make mistakes.
+                        But we need only once correct our mistake and at last hear the song of enlightenment with which we can break the chain of vengeance forever.
+                        In your heart you can hear it now... It's the song your spirit has been singing since the moment of your birth.
+                    </p>
+                    <p>
+                        If the monks were right, and nothing happens without cause, then the gift of suffering is to bring us closer to God...
+                        To teach us to be strong when we are weak;
+                        To be brave when we are afraid;
+                        To be wise in the midst of confusion;
+                        To let go of that which we can no longer hold...
+                        Lasting victories are won in the heart, not in this land or that...
+                    </p>
+                  </div>
+  
+                </div>
+              </li>
+
+            </ul>
+  
+        </section>        
+
+
+        <!--
+          - testimonials modal
+        -->
+
+        <div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/avatar-1.png" alt="SS" width="80" data-modal-img>
+              </figure>
+
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
+            </div>
+
+            <div class="modal-content">
+
+              <h4 class="h3 modal-title" data-modal-title>SS</h4>
+              
+              <time data-modal-date>14 June, 2022</time>
+
+              <div data-modal-text>
+                <p>
+                  Sai Nandan is amazing! My God! What a guy!
+                </p>
+              </div>
+
+            </div>
+
+          </section>
+
+        </div>
+        
+      </article>
+
+    </div>
+
+  </main>
+
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
