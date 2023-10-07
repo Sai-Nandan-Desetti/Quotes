@@ -7,7 +7,7 @@
 
 
 * [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth & Love](https://www.youtube.com/watch?v=Osh0-J3T2nY)
-> You have to prepare for it... but... the moment of discovery is the moment when thinking stops... you become that truth that you are seeking.
+> You have to prepare for it... but... the moment of discovery is the moment when thinking stops... you become that truth that you are seeking. - Edward Frankel
 
 
 * [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://www.youtube.com/watch?v=U_6AYX42gkU)
@@ -19,7 +19,7 @@
 
 
 * [How Carl Sagan "Predicted" 2020... in 1995](https://youtu.be/LNQtB5sL9F4)
-> We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good. ― Carl Sagan
+> We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good. - Carl Sagan
 
 
 * [Q&A: Should Computers Run the World?](https://www.youtube.com/watch?v=6oWliz-bNvQ)
