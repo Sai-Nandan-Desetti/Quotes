@@ -7,7 +7,9 @@
 
 
 * [Edward Frenkel: Reality is a Paradox - Mathematics, Physics, Truth & Love](https://www.youtube.com/watch?v=Osh0-J3T2nY)
-> You have to prepare for it... but... the moment of discovery is the moment when thinking stops... you become that truth that you are seeking. - Edward Frankel
+    > You have to prepare for it... but... the moment of discovery is the moment when thinking stops... you become that truth that you are seeking. - Edward Frankel
+
+    > A thinker without purpose is a lover without passion.
 
 
 * [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://www.youtube.com/watch?v=U_6AYX42gkU)
