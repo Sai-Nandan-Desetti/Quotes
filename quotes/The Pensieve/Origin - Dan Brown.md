@@ -1,0 +1,3 @@
+> We are perched on a strange cusp of history, a time when the world feels like it's been turned upside down, and nothing is quite as we imagined. But uncertainty is always a precursor to sweeping change; transformation is always preceeded by upheaval and fear. I urge you to place your faith in the human capacity for creativity and love, because these two forces, when combined, possess power to illuminate any darkness. - Edmond Kirsch
+
+> When I witness the precision of mathematics, the reilability of physics, and the symmetries of the cosmos, I don't feel like I'm observing cold science; I feel as if I'm seeing a living footprint... the shadow of some greater force that's beyond our grasp. - Robert Langdon.
