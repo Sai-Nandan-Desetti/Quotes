@@ -101,6 +101,4 @@ Were toiling upward in the night.
 
 > There are a thousand hacking at the branches of evil to one who is striking at the root. - Henry David Thoreau
 
-> We see the world not as it is, but as we are. - Stephen Fry
-
 > You must first know your limits in order to go beyond them. - Albert Einstein
