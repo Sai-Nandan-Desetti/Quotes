@@ -27,3 +27,13 @@ A. Nothing. (A poor man has nothing. A rich man needs nothing. If you eat nothin
 > I feel so miserable without you, it's almost like having you here. - Stephen Bishop
 
 > Two things are infinite: the universe and human stupidity; and I'm not sure about the former. - Albert Einstein
+
+> An experienced carpenter nailed everything but the amateur screwed it up.
+
+> Classic: a book everyone talks about but no one reads. - Mark Twain
+
+> Ever loved someone so much, you would do anything for them> Yeah, well make that someone yourself and do whatever the hell you want.
+
+> Scientists say that the world is made of protons, neutrons, and electrons. They forgot to mention morons.
+
+> Everyone has two lives. The second one begins the day you realize that you've only got one. - Mark Twain

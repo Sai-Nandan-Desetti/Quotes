@@ -102,3 +102,35 @@ Were toiling upward in the night.
 > There are a thousand hacking at the branches of evil to one who is striking at the root. - Henry David Thoreau
 
 > You must first know your limits in order to go beyond them. - Albert Einstein
+
+> Chance is perhaps the pseudonym of God when he does not want to sign. - Theophile Gautier
+
+> Our lives begin to end the day we become silent about things that matter.
+
+> Victory attained by violence is tantamount to a defeat, for it is momentary. - M K Gandhi
+
+> It is better to be violent if there is violence in our hearts, than to put on the cloak of non-violence to cover impotence. - M K Gandhi
+
+> And, in the end, it's not the years in your life that count. It's the life in your years. - Abraham Lincoln
+
+> Sometimes not reacting instantly, ironically, is the best immediate course of action we can take.
+
+> Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can't ride you unless your backs are bent. - Martin Luther King Jr
+
+> Don't be afraid of losing yourself. Be afraid of losing yourself in trying to please around you.
+
+> The ultimate measure of man is not where he stands in moments of comfort and convience, but where he stands at times of challenge and controversy. - Martin Luther King Jr
+
+> When your work speaks for you, do not interrupt.
+
+> It is impossible to live without failing at something unless you live so cautiously that you might have as well not have at all - in which case you fail by default. - J K Rowling
+
+> Do not fear the word "NO". But be afraid of the possibility of a "YES" that you prematurely destroyed because you decided to quit... There are a lot of questions that are going to keep you up at night, but I guarantee you there isn't one question that will keep you up longer at night than the question, "WHAT IF I DIDN'T GIVE UP?" - Deshauna Barber
+
+> An umbrella cannot stop the rain but can make us stand the rain. Similarly, confidence may not bring success but it gives us the power to endure any challenge in life. - APJ Abdul Kalam
+
+> In the end, we will remember not the words of our enemies, but the silence of our friends.
+
+> Every meeting led to a parting, and so it would, as long as life was mortal. In every meeting there was some of the sorrow of parting, but in every parting there was some of the joy of the meeting as well. Never forget the joy...
+
+> We're conditioned to think that our lives revolve around great moments. But great moments often catch us unaware-- beautifully wrapped in what others may consider a small one.
