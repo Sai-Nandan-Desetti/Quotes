@@ -62,3 +62,45 @@ Were toiling upward in the night.
 > Chains of habit are too light ot be felt, until they are too heavy to be broken. - Warren Buffett
 
 > History will be kind to me for I intend to write it. - Sir Winston Churchill
+
+> Those who cannot remember the past are condemned to repeat it. - George Santayana
+
+> What lies behind us and what lies before us are tiny matters compared to what lies within us. - Ralph Wald Emerson
+
+> One does not discover new lands without consenting to lose sight of the shore for a long time. - Andre Gide
+
+> One who thinks that enough is enough always has enough. - Lao Tzu
+
+> Innovation distinguishes between a leader and a follower - Steve Jobs
+
+> Consistency is the last refuge of the unimaginative. - Oscar Wilde
+
+> The success of a war is guaged by the amount of damage it does. - Victor Hugo
+
+> A coward cannot exhibit love; it is the prerogative of the brave. - Mahatma Gandhi
+
+> Time is what we want most and use worst. - William Penn
+
+> Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship. - Buddha
+
+> He travels the fastest who travels alone. - Rudyard Kipling
+
+> The innocent and the beautiful have no enemy but time. - William Butler Yeats
+
+> The question is not whether machines think or not, but whether men do. - B F Skinner
+
+> I attribute my success to this: I never gave or took an excuse. - Florence Nightingale
+
+> When you fish for love, bait with your heart, not your brain. - Mark Twain
+
+> The real voyage consists not in discovering new landscapes but in having new eyes. - Marcel Proust
+
+> Not everything that can be counted counts, and not everything that counts can be counted. - William Bruce Cameron
+
+> I cried because I had no shoes until I met a man who had no feet. - Helen Keller
+
+> There are a thousand hacking at the branches of evil to one who is striking at the root. - Henry David Thoreau
+
+> We see the world not as it is, but as we are. - Stephen Fry
+
+> You must first know your limits in order to go beyond them. - Albert Einstein
