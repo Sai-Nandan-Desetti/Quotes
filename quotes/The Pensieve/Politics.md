@@ -7,9 +7,8 @@ Intolerant to the delusioned masses, create ILLUSIONS of
 Concern and love - LIES let loose upon our lives - lest they lose
 Their seats of OPULENCE oppressively gained from us
 With disregard to the Preamble and POWER they contain.
-```
 
-```
+
 Today, our traditions have been destroyed;
 The meaning of our scriptures has been lost in the womb of time;
 The significance of our culture has been misinterpreted and INVERTED;
