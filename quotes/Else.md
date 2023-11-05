@@ -134,3 +134,5 @@ Were toiling upward in the night.
 > Every meeting led to a parting, and so it would, as long as life was mortal. In every meeting there was some of the sorrow of parting, but in every parting there was some of the joy of the meeting as well. Never forget the joy...
 
 > We're conditioned to think that our lives revolve around great moments. But great moments often catch us unaware-- beautifully wrapped in what others may consider a small one.
+
+> Man is an individual who holds himself in hand by his intelligence and his will; he exists not merely in a physical fashion but has spiritual super-existence through knowledge and love, so that he is, in a way, a universe in himself-- a microcosm in which the great universe in its entirety can be encompassed through knowledge. - *The Conquest of Freedom*, Jacques Maritain.
