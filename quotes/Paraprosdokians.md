@@ -32,7 +32,7 @@ A. Nothing. (A poor man has nothing. A rich man needs nothing. If you eat nothin
 
 > Classic: a book everyone talks about but no one reads. - Mark Twain
 
-> Ever loved someone so much, you would do anything for them> Yeah, well make that someone yourself and do whatever the hell you want.
+> Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever the hell you want.
 
 > Scientists say that the world is made of protons, neutrons, and electrons. They forgot to mention morons.
 

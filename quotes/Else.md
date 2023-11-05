@@ -123,7 +123,7 @@ Were toiling upward in the night.
 
 > When your work speaks for you, do not interrupt.
 
-> It is impossible to live without failing at something unless you live so cautiously that you might have as well not have at all - in which case you fail by default. - J K Rowling
+> It is impossible to live without failing at something unless you live so cautiously that you might have as well not have lived at all - in which case you fail by default. - J K Rowling
 
 > Do not fear the word "NO". But be afraid of the possibility of a "YES" that you prematurely destroyed because you decided to quit... There are a lot of questions that are going to keep you up at night, but I guarantee you there isn't one question that will keep you up longer at night than the question, "WHAT IF I DIDN'T GIVE UP?" - Deshauna Barber
 
