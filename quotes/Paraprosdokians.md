@@ -32,6 +32,14 @@ A. Nothing. (A poor man has nothing. A rich man needs nothing. If you eat nothin
 
 > Classic: a book everyone talks about but no one reads. - Mark Twain
 
+> The last thing I want to do is hurt you, but it's still on my list.
+
+> Since light travels faster than sound, some people appear bright until you hear them speak.
+
+> If I agreed with you, we'd both be wrong.
+
+> Going to church doesn't make you a Christian, any more than standing in a garage makes you a car.
+
 > Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever the hell you want.
 
 > Scientists say that the world is made of protons, neutrons, and electrons. They forgot to mention morons.
