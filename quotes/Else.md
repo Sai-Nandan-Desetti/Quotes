@@ -137,4 +137,4 @@ Were toiling upward in the night.
 
 > Man is an individual who holds himself in hand by his intelligence and his will; he exists not merely in a physical fashion but has spiritual super-existence through knowledge and love, so that he is, in a way, a universe in himself-- a microcosm in which the great universe in its entirety can be encompassed through knowledge. - *The Conquest of Freedom*, Jacques Maritain.
 
-> Our intention is to affirm this life &mdash; not to bring order out of chaos, nor to suggest improvements in creation, but simply to wake up to the very life we're living, which is so excellent once one get's one's mind and desires out of its wat and lets it act of its own accord. - John Cage
+> Our intention is to affirm this life &mdash; not to bring order out of chaos, nor to suggest improvements in creation, but simply to wake up to the very life we're living, which is so excellent once one get's one's mind and desires out of its way and lets it act of its own accord. - John Cage
