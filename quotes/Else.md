@@ -41,11 +41,11 @@ Were toiling upward in the night.
 
 > There is nothing noble in being superior to your fellowmen. True nobility lies in being superior to your former self. - Ernest Hemmingway
 
-> Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is not a potential. Impossible is temporary. Impossible is nothing. - Adidas ad featuring Muhammad Ali
+> Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing. - Adidas ad featuring Muhammad Ali
 
 > To have faith is to trust yourself in water. When you swim you do not grab hold of the water because if you do you will sink and drown. Instead you relax and float. - Alex Watts
 
-> Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will let down quietly, may alight upon you. - Nathaniel Hawthorne
+> Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which, if you will sit down quietly, may alight upon you. - Nathaniel Hawthorne
 
 > Faith is to believe what you do not see, the reward of this faith is to see what you believe. - St. Augustine
 
@@ -136,3 +136,5 @@ Were toiling upward in the night.
 > We're conditioned to think that our lives revolve around great moments. But great moments often catch us unaware-- beautifully wrapped in what others may consider a small one.
 
 > Man is an individual who holds himself in hand by his intelligence and his will; he exists not merely in a physical fashion but has spiritual super-existence through knowledge and love, so that he is, in a way, a universe in himself-- a microcosm in which the great universe in its entirety can be encompassed through knowledge. - *The Conquest of Freedom*, Jacques Maritain.
+
+> Our intention is to affirm this life &mdash; not to bring order out of chaos, nor to suggest improvements in creation, but simply to wake up to the very life we're living, which is so excellent once one get's one's mind and desires out of its wat and lets it act of its own accord. - John Cage
