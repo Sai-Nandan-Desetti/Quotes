@@ -1,5 +1,5 @@
 ```
-O Lord grant me
+O Lord! grant me
 The serenity to accept the things I cannot change,
 The courage to change the thinsg I can, and
 The wisdom to know the difference.
