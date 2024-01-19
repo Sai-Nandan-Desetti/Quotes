@@ -23,3 +23,6 @@ Said the first: “Well I don’t see Her, so it is only logical that She doesn�
 To which the second replied, “Sometimes, when you’re in silence and you focus and listen, you can perceive Her presence, and you can hear Her loving voice, calling down from above.”
 
 Maybe this was one of the best explanations of the concept of GOD.
+
+
+Source: [The concept of GOD](https://www.linkedin.com/posts/rabbi-mitch-feld-msw-69bb21201_in-a-mothers-womb-were-two-babies-one-asked-activity-6977955451204210688-4xIv?utm_source=share&utm_medium=member_desktop)
