@@ -15,7 +15,7 @@ I do not presume to understand the course of my life. I know I am grateful to ha
   For two days, the Greeks made them pay so dearly the Persian army lost all taste for battle and were defeated soon after.
   ...
   Katsumoto: You believe a man can change his destiny?
-  Algren: I think a man does what he cacn until his destiny is revealed to him.
+  Algren: I think a man does what he can until his destiny is revealed to him.
   .
   .
   .
