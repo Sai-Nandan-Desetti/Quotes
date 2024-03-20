@@ -25,3 +25,9 @@ Sometimes I see it as a memory to cherish,
 Sometimes I see it as a gift to be opened, 
 Everytime I see it as a moment to be lived. 
 Until I don't.  
+
+* [The use of ChatGPT](https://www.linkedin.com/feed/update/urn:li:activity:7174311690375745536?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7174311690375745536%2C7174357082454851584%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287174357082454851584%2Curn%3Ali%3Aactivity%3A7174311690375745536%29)
+    > I've found it useful in scenarios where there are lots of opinions available and you don't want to have to go through all of them. Like, you want to prepare on a subject for an interview. 
+But the utility is only to the extent of removing the burden of choice; the burden of verification remains. 
+I thought I could see it as a good summarizer. But I can't even be sure of that!
+When it comes to coding, I think its effect is insidious, particularly when it comes to testing the examples that it provides. Insidious because if those examples were to pass through one's rudimentary tests, then it would, even if subtly, reinforce their perception of ChatGPT as an encyclopedia (a fact dispenser, if you will) or a problem solver, which it is NOT.
