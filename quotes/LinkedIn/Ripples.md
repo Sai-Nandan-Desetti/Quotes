@@ -1,4 +1,4 @@
-# Ripples
+## Ripples
 I am generally not a fan of days that dictate our thoughts but today is something else.
 It is the International day for Mother Language.
 For us Bengalis, it is Ekushe, or the 21st. A reminder for many values at once. And once again, I am in a throwback mood.
