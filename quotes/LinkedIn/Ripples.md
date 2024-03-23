@@ -22,6 +22,6 @@ Because we never know who might just remember it for a long time.
 That’s my lesson for Ekushe, 2024 too.
 
 
-The song starts from 1:28 here: [Ekushe February Aj Sokaler Amontrone Subha Dana IV](https://www.youtube.com/watch?v=b6tk3DeRtaM)
+The song starts from 1:28 here: [Ekushe February Aj Sokaler Amontrone Subha Dana IV](https://www.youtube.com/watch?v=b6tk3DeRtaM).
 
 Source: [Ripples](https://www.linkedin.com/posts/shabnamsurita_ekushe-february-aj-sokaler-amontrone-subha-activity-7165971975465607168-aT13?utm_source=share&utm_medium=member_desktop)
