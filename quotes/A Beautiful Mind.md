@@ -7,11 +7,10 @@ It is only in the mysterious equations of love that any logical reasons can be f
 I'm only here tonight because of you. You are the reason I am. You are all my reasons...
 ```
 
-```
-You don't know what's the truth...
+> You don't know what's the truth...
 Imagine... if you had suddenly learnt that the people and the places and the moments most important to you were not gone, not dead, but worse&mdash; had never been...
 What kind of a hell would that be?
-```
+
 
 ```
 Context: The Manhattan Project
