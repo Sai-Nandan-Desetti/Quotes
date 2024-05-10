@@ -175,3 +175,7 @@ And still waters run deep. (I've given it some thought and can elaborate more on
 
 * [Uncertainty in decisions](https://www.linkedin.com/feed/update/urn:li:activity:7188429682365595649?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7188429682365595649%2C7188587754115497985%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287188587754115497985%2Curn%3Ali%3Aactivity%3A7188429682365595649%29)
     > I used to find indecisiveness quite stifling. How are you supposed to take a decision when you're unsure? But I've come to believe that we are quite naturally confident in very uncertain ways.
+
+* [Literature in a class](https://www.linkedin.com/feed/update/urn:li:activity:7193452267994292224?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7193452267994292224%2C7193617096285540356%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287193617096285540356%2Curn%3Ali%3Aactivity%3A7193452267994292224%29)
+    > It's a wonderful idea!! I've thought about why do feelings of pain and sadness hit us harder when described in some lines... I suppose it's like art.. Why do some pieces inspire more than others... 
+And it became like a comparison of the feelings that people go through to create that.. And it felt weird after that. 😅 Studying literature in a formal class setting had a feeling of confinement for me more often than not. There was an air of this is what SHOULD be the take away or THE way to read the poem -- a certain degree of confidence, in which I couldn't find much reason, that that was indeed the poet's perspective.
