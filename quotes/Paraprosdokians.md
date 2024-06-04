@@ -8,7 +8,7 @@ Q. A poor man has it. A rich man needs it. If you eat it, you will die. What is 
 A. Nothing. (A poor man has nothing. A rich man needs nothing. If you eat nothing, you will die.)
 ```
 
-> He is as good as his word - and his word is no good. - Seamus MacManus
+> He is as good as his word, and his word is no good. - Seamus MacManus
 
 > The trouble with her is that she lacks the power of conversation but not the power of speech. - George Bernard Shaw
 
@@ -45,3 +45,7 @@ A. Nothing. (A poor man has nothing. A rich man needs nothing. If you eat nothin
 > Scientists say that the world is made of protons, neutrons, and electrons. They forgot to mention morons.
 
 > Everyone has two lives. The second one begins the day you realize that you've only got one. - Mark Twain
+
+> The twisted tree lives its life, while the right tree ends up being cut for planks.
+
+> Happiness is nothing more than a good health and bad memory. - Albert Schweitzer

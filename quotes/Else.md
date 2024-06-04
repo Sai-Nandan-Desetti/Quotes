@@ -29,11 +29,9 @@ Were toiling upward in the night.
 
 > Do not strive for perfection. There's a crack in everything; that's how the light gets in. - Leonard Cohen
 
-> If the doors of perception were cleansed everything would appear to man as it is &mdash; infinite. - William Blake
+> If the doors of perception were cleansed, everything would appear to man as it is &mdash; infinite. - William Blake
 
 > A hero is no braver than an ordinary man, but he is brave only five minutes longer. - Ralph Waldo Emerson
-
-> Happiness is nothing more than a good health and bad memory. - Albert Schweitzer
 
 > The best way to predict the future is to create it. - Peter Drucker
 
@@ -117,7 +115,7 @@ Were toiling upward in the night.
 
 > Change does not roll in on the wheels of inevitability, but comes through continuous struggle. And so we must straighten our backs and work for our freedom. A man can't ride you unless your backs are bent. - Martin Luther King Jr
 
-> Don't be afraid of losing yourself. Be afraid of losing yourself in trying to please around you.
+> Don't be afraid of losing yourself. Be afraid of losing yourself in trying to please the people around you.
 
 > The ultimate measure of man is not where he stands in moments of comfort and convience, but where he stands at times of challenge and controversy. - Martin Luther King Jr
 
@@ -138,3 +136,37 @@ Were toiling upward in the night.
 > Man is an individual who holds himself in hand by his intelligence and his will; he exists not merely in a physical fashion but has spiritual super-existence through knowledge and love, so that he is, in a way, a universe in himself &mdash; a microcosm in which the great universe in its entirety can be encompassed through knowledge. - *The Conquest of Freedom*, Jacques Maritain.
 
 > Our intention is to affirm this life &mdash; not to bring order out of chaos, nor to suggest improvements in creation, but simply to wake up to the very life we're living, which is so excellent once one get's one's mind and desires out of its way and lets it act of its own accord. - John Cage
+
+> Resistance is not a matter of choice. Not all battles are fought for victory. Some are fought simply to tell the world that someone was there on the battlefield. - Ravish Kumar
+
+> If you want to make a difference, go tell others how they're making a difference to the world.
+
+> You haven't come this far only to come this far.
+
+> I never knew how strong I could be until being strong was the only option I had.
+
+> A common mistake people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
+
+> Respect people who make time for you in their busy schedules. And love the one who don't need to look at their schedule when you need them.
+
+> A career is born in the public &mdash; talent in privacy.
+
+> If you refuse to find joy in the rain, you'll have less joy in your life but still the same amount of rain.
+
+> What's the difference between a conspiracy theory and truth? Six months...
+
+> Tolerance will reach such a level that intelligennt people will be banned from thinking so as not to offend the imbeciles.
+
+> I wanted God to know that He could trust me to manage the blessings I had, even if I felt that they were little. - Alaina Curry
+
+> If you kick me when I'm down, then you better pray that I don't get back up.
+
+> Nothing is so simple that it cannot be misunderstood.
+
+> It is by logic that we prove, but by intuition that we discover. - Henri Poincarè
+
+> Platitudes and generalities roll of the human understanding like water from a duck. They leave no impression whatsoever. - Claude Hopkins
+
+> When you know yourself, you're empowered. When you accept yourself, you're invincible. - Tina Lifford
+
+> If they act like they can live without you, help them. - Tripti Jain
