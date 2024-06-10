@@ -184,3 +184,7 @@ And it became like a comparison of the feelings that people go through to create
     > So well put!! This is how I feel too! I'm reminded of these lines by Lord Byron: "Your deepest feeling shows itself in solitude and silence. That very feeling is often the deeper truth than a superficial opinion. It's highly possible that you can think wrong, you can learn wrong, or know wrong. You can even see wrong. But you can never feel wrong. There is no instinct like that of the heart." What gets passed around, communicated are the words people use to describe their feelings. And many often attach greater importance to the words of others than to the truth of their own feelings.
 
     > "This ain't the road, this is only the map." - Tom Waits
+
+
+* [The inadequacy of words](https://www.linkedin.com/feed/update/urn:li:activity:7202568285177950208?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7202568285177950208%2C7202692135966433282%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287202692135966433282%2Curn%3Ali%3Aactivity%3A7202568285177950208%29)
+    > And sometimes it feels like people are stuck trying to understand the various meanings of the words that the real problem doesn't seem to get addressed. The word "mental" - that has got its own connotations... Is anyone considered "disabled"? Often discussions of these meanings quickly devolve into something like this famous example: "It depends on what you mean by the word 'is'..."

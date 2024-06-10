@@ -32,4 +32,4 @@ What are we supposed to do differently when a sword hangs over our heads? Obviou
 
 If we need to give our best efforts now, it's only because that's the way it should always be. We have a limited amount of seconds in this world. It might be millions, or it might only be a few dozen. Either way, they all count, and we need to do spend them in the best way possible.
 
-**Source**: [What's it like living in a war? - Yonah Klein](https://www.linkedin.com/posts/yonah-klein-0b045a99_whats-it-like-living-in-a-war-oddly-its-activity-7119241029626568704-O3KT?utm_source=share&utm_medium=member_android)
+**Source**: [What's it like living in a war?](https://www.linkedin.com/posts/yonah-klein-0b045a99_whats-it-like-living-in-a-war-oddly-its-activity-7119241029626568704-O3KT?utm_source=share&utm_medium=member_android)
