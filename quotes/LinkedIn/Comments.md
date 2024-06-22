@@ -188,3 +188,6 @@ And it became like a comparison of the feelings that people go through to create
 
 * [The inadequacy of words](https://www.linkedin.com/feed/update/urn:li:activity:7202568285177950208?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7202568285177950208%2C7202692135966433282%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287202692135966433282%2Curn%3Ali%3Aactivity%3A7202568285177950208%29)
     > And sometimes it feels like people are stuck trying to understand the various meanings of the words that the real problem doesn't seem to get addressed. The word "mental" - that has got its own connotations... Is anyone considered "disabled"? Often discussions of these meanings quickly devolve into something like this famous example: "It depends on what you mean by the word 'is'..."
+
+* [Not everything is "progress"](https://www.linkedin.com/feed/update/urn:li:activity:7208723195074363392?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7208723195074363392%2C7208772430423576576%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287208772430423576576%2Curn%3Ali%3Aactivity%3A7208723195074363392%29)
+    > I think the same with respect to cultures. I find people often putting some as superior, more progressive than others. But I think, in most cases, they're just different. And even in the change of a single culture over time, it isn't necessarily, in every aspect, progress.
