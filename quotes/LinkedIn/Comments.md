@@ -205,3 +205,44 @@ Perhaps the difficulty isn't so much in being accepting as it is in being unclea
 * [One true way](https://www.linkedin.com/feed/update/urn:li:activity:7227566827877343232?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7227566827877343232%2C7227571326176083969%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287227571326176083969%2Curn%3Ali%3Aactivity%3A7227566827877343232%29)
     > Taking the idea of "one true way" beyond the context of religion, living in a society necessitates that we live in a way that's mutually agreeable, doesn't it? It may be impossible to DEFINE such a way that agrees with EVERYONE, but there are a few universal things that we agree on&mdash; say, that we should not harm others. How did we come to such an agreement? Through harm? We saw people harming each other and felt a pain for them and for ourselves? Who taught us to have empathy or dislike pain? Evolution? I think we all want to cry out to someone or something in moments of despair. Who do we think is listening to us?
 God, Universe, Hope, Love, Luck, Nature... ? I think there's meaning in seeking a happiness that remains unaffected by the vicissitudes of life. I wonder if there's an experience to be sought that transcends our individual experiences. How do we know it if all we know is through our experience?
+
+* [Parables](https://www.linkedin.com/feed/update/urn:li:activity:7183425821435400192?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7183425821435400192%2C7183486329555496960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287183486329555496960%2Curn%3Ali%3Aactivity%3A7183425821435400192%29)
+    > Banal. It makes no sense how they're earning so much off it. The banality is so evident, it's mind-boggling! I do like parables. But not the essay of explanation following it saying this is what you should take away. Leave it for my interpretation, I say. Having said that, I thoroughly agree with your quote. Context is most important.
+
+* [FOMO](https://www.linkedin.com/feed/update/urn:li:activity:7181544640800550914?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7181544640800550914%2C7181712317913468928%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287181712317913468928%2Curn%3Ali%3Aactivity%3A7181544640800550914%29)
+    > I find that when someone wants us to do something, they often make space for us to do it by creating a fear that we're missing out on something (really big) by not doing that thing. To be frank, I've noticed people selling stuff, and I have developed a sense of FOMO about that stuff. Perhaps, I shouldn't really say that the sellers created that fear. It's mostly about me (my self-control, etc.). But anyway, I've been grappling with this idea for a while...
+
+* [Code](https://www.linkedin.com/feed/update/urn:li:activity:7180820617942704129?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7180820617942704129%2C7180961380399820800%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287180961380399820800%2Curn%3Ali%3Aactivity%3A7180820617942704129%29)
+    > fetch next from cursor_influencer into @famousname;<br>
+      while @fetch_status = 0<br>
+          if (@famousname is Daryl Hewison)<br>
+             if (post_insight + post_originality < 100)<br>
+                 if (num_times_you_read_post < 50)<br>
+                     continue; // re-read the post<br>
+                 else<br>
+                     drop @yourself;<br>
+             else<br>
+                 if (not already_following)<br>
+                     followers++;<br>
+      fetch next from cursor_influencer into @famousname;<br>
+    Edit: Why doesn't it preserve formatting/spacing in the comments?!<br>
+
+* ["WHAT" and "HOW" of writing](https://www.linkedin.com/feed/update/urn:li:activity:7179022840103370752?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7179022840103370752%2C7179146519651004418%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287179146519651004418%2Curn%3Ali%3Aactivity%3A7179022840103370752%29)
+    > I think most people, at least copywriters should, think that clear writing is the norm. It's expected. Ordinary. And they need to stand out. So, it goes beyond the point of WHAT they want to convey to HOW they want to convey it. That's their domain of creativity. The unfortunate thing is the "HOW" is so subjective. Everyone has their own opinion, and gets overconfident in hindsight.
+
+* [Playing dumb](https://www.linkedin.com/feed/update/urn:li:activity:7173224869587836929?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7173224869587836929%2C7173614616881643523%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287173614616881643523%2Curn%3Ali%3Aactivity%3A7173224869587836929%29)
+    > I love playing dumb. It gives me a nice vantage point to observe different things about people, particularly the ones judging you (while I judge them, of course). The danger is that sometimes I actually do something dumb, but I tell myself that I was just playing... 
+"It pays to keep an open mind, but not so open your brains fall out. " (More influencers should study your posts. There's the scroll-stopping headline. The CTA at the bottom. With some well-spaced interesting stuff in between...)
+
+* [How different is different enough?](https://www.linkedin.com/feed/update/urn:li:activity:7171051194621095938?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7171051194621095938%2C7171142312717221888%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287171142312717221888%2Curn%3Ali%3Aactivity%3A7171051194621095938%29)
+    > It feels provocative only because most things when posted in a general way, as in a food for thought kind of thing, are taken in an extreme way, without any context, or in a context that suits them best. I do think if a therapist were to tell their client the same thing, the client would receive it positively. And to expect no one to think of it in such an extreme way is being extreme ourselves.
+
+* [Reversed LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7168151798468317184?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7168151798468317184%2C7168215649587056640%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287168215649587056640%2Curn%3Ali%3Aactivity%3A7168151798468317184%29)
+    > B-but this is like going up to someone you want to start a conversation with by saying, "I want to listen to you. Tell me something."
+Does that work? On LinkedIn news, I read a post the other day by someone who has apparently spoken to the editor of LinkedIn, saying that some big changes are coming on LinkedIn. In-depth posts and articles are going to be given priority. Hashtags are important. Being consistent with a topic across posts will be favored. For more insights, he wanted me to read his newsletter. I haven't subscribed to it.
+
+* [The art of listening](https://www.linkedin.com/feed/update/urn:li:activity:7166339916296081408?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7166339916296081408%2C7166359135532298240%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287166359135532298240%2Curn%3Ali%3Aactivity%3A7166339916296081408%29)
+    > Everyone assumes that they're good at listening, don't they? (Of course, not EVERYONE)
+
+* [Metaphors as an interface](https://www.linkedin.com/feed/update/urn:li:activity:7164165317034762240?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7164165317034762240%2C7164185146756116480%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287164185146756116480%2Curn%3Ali%3Aactivity%3A7164165317034762240%29)
+    > I was thinking about metaphors too recently! In the context of mental health conversation. I see them used as an interface for communicating ideas that require different interpretations by different people. The same metaphor could be understood in different ways by different people. (Of course, not all metaphors allow that.) In this sense, it seems much like poetry to me. 
